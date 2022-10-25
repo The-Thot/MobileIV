@@ -1,4 +1,4 @@
-# john_thot
+# ViajanThot
 
 A new Flutter project.
 

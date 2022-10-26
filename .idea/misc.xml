@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ProjectRootManager">https://github.com/The-Thot/MobileIV/pull/7/conflict?name=.idea%252Fmisc.xml&base_oid=9715c221cd4910f4d04f53a751b4465092f72024&head_oid=639900d13c6182e452e33a3bd638e70a0146c785
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
   <component name="ProjectRootManager">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
+main
 </project>
